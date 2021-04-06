@@ -84,8 +84,6 @@ export default function Dashboard() {
 
           </Box>
         </SimpleGrid>
-
-
      </Flex>
 
     </Flex>
